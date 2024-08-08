@@ -14,7 +14,7 @@ Graphqler is a tool for inspecting GraphQL schemas and executing queries or muta
 ```bash
 python Graphqler.py -u https://example.com/graphql
 ```
-```bash
+```
   __     __     ______     ______   __     ______     __   __
  /\ \  _ \ \   /\  __ \   /\__  _\ /\ \   /\  __ \   /\ "-.\ \
  \ \ \/ ".\ \  \ \  __ \  \/_/\ \/ \ \ \  \ \ \/\ \  \ \ \-.  \
